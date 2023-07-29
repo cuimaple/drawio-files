@@ -1,0 +1,65 @@
+<mxfile host="Electron" modified="2023-05-24T11:03:37.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="Q24nZBl1I6OLsg4DfRwL" version="21.1.2" type="device" pages="2">
+  <diagram name="SNO MD Process" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="863" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-67" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="114" y="129" width="827" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-62" value="RM" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="sqUzWmxbZ8TPiVTLbrzZ-67">
+          <mxGeometry width="827" height="236" as="geometry">
+            <mxRectangle width="32" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sqUzWmxbZ8TPiVTLbrzZ-62" source="sqUzWmxbZ8TPiVTLbrzZ-68" target="sqUzWmxbZ8TPiVTLbrzZ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-68" value="code released in Enovia &amp;amp; activated in plant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sqUzWmxbZ8TPiVTLbrzZ-62">
+          <mxGeometry x="50" y="16" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sqUzWmxbZ8TPiVTLbrzZ-62" source="sqUzWmxbZ8TPiVTLbrzZ-71" target="sqUzWmxbZ8TPiVTLbrzZ-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-75" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sqUzWmxbZ8TPiVTLbrzZ-74">
+          <mxGeometry x="-0.2457" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sqUzWmxbZ8TPiVTLbrzZ-62" source="sqUzWmxbZ8TPiVTLbrzZ-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-78" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sqUzWmxbZ8TPiVTLbrzZ-77">
+          <mxGeometry x="-0.2261" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-71" value="perfume?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="sqUzWmxbZ8TPiVTLbrzZ-62">
+          <mxGeometry x="270" y="6" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-73" value="RTP Process" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="sqUzWmxbZ8TPiVTLbrzZ-62">
+          <mxGeometry x="431" y="27.5" width="87" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-63" value="PM" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="sqUzWmxbZ8TPiVTLbrzZ-67">
+          <mxGeometry y="200" width="827" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-64" value="FP-Single" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="sqUzWmxbZ8TPiVTLbrzZ-67">
+          <mxGeometry y="400" width="827" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sqUzWmxbZ8TPiVTLbrzZ-66" value="FP-Single" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="sqUzWmxbZ8TPiVTLbrzZ-67">
+          <mxGeometry y="600" width="827" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XTKQ8xZEAJQ8G7ldyTE9" name="01-Perfume-RFP">
+    <mxGraphModel dx="2590" dy="1538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
